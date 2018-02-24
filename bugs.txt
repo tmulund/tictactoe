@@ -1,4 +1,0 @@
-
-If the width and height are different, an key error occurs. 
-X and Y migh get mixed up somewhere with the buttons
-
