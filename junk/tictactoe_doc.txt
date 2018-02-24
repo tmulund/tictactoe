@@ -1,0 +1,2 @@
+# Voiton tarkistus: Aloita tarkistaminen siitä ruudusta mihin äsken laitettiin jotain.
+# Käy läpi mahdolliset voittolinjat. Jos voittolinja menisi yli seinän, siirry seuraavaan.
